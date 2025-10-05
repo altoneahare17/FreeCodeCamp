@@ -1,13 +1,47 @@
-# FreeCodeCamp
-Certified Full Stack Developer Curriculum
+# 🍽️ Recipe Page
 
-This course provides a comprehensive pathway to becoming a Certified Full Stack Developer, covering all the essential technologies required to build modern, scalable web applications from start to finish.
+A simple and responsive recipe page built using **HTML** and **CSS**.  
+This project was created as part of the [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn) curriculum.
 
-Through a blend of interactive lessons, coding exercises, and real-world projects, you will master both frontend and backend development. You'll work with HTML, CSS, and JavaScript to build responsive user interfaces, explore React and TypeScript for advanced web applications, and learn to manage data with relational databases - and on the backend, you'll use Git, Npm, Node.js, and Python to create powerful server-side solutions.
+---
 
-By the end of this course, you'll have the practical skills and experience to confidently develop complete web applications, preparing you for a successful career as a Full Stack Developer.
+## 🧠 Overview
+This page showcases a recipe layout with clear instructions, ingredients, and an appealing design.  
+It demonstrates basic web development concepts including:
+- Semantic HTML structure
+- Responsive design using CSS
+- Typography and color styling
+- Image and layout optimization
 
-This certification will take you a substantial amount of time and effort to complete. If you start now, you may be ready to start the remaining material and final exam when we launch it in the coming months.
+---
 
+## 🛠️ Built With
+- **HTML5**
+- **CSS3**
 
-Studying still in progress...
+---
+
+## 🚀 Live Demo
+👉 [View Live Project](https://altoneahare17.github.io/Recipe-Page/)
+
+*(Make sure GitHub Pages is enabled in your repository settings under “Pages”.)*
+
+---
+
+## 📸 Screenshot
+![Recipe Page Screenshot](screenshot.png)
+
+---
+
+## 💡 Future Improvements
+- Add JavaScript interactivity (e.g. toggle ingredients)
+- Include multiple recipes
+- Improve mobile responsiveness
+
+---
+
+## 👩🏾‍💻 Author
+**Altonea Cleochan Hare**  
+Full Stack Developer | Computer Technician  
+📧 [altoneahare17@icloud.com](mailto:altoneahare17@icloud.com)  
+🌐 [GitHub Profile](https://github.com/altoneahare17)
